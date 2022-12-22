@@ -1,2 +1,7 @@
+<<<<<<< HEAD
 This is file2 new createdin master branch and again  modified in master branch
 changed file2 content
+=======
+This is file2 new createdin master branch and then modified in feature1 branch
+modified content in file 2 in feature1 branch
+>>>>>>> feature1
