@@ -1,1 +1,2 @@
-This is file2 new createdin master branch
+This is file2 new createdin master branch and again  modified in master branch
+changed file2 content
